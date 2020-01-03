@@ -1,0 +1,12 @@
+h1
+{
+    text-align: center;
+    color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body
+{
+   background-image: url(gambar.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
